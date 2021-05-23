@@ -9,3 +9,15 @@ Diez personalidades destacadas de la ciencia:
  * José Luis Sérsic
  * Bernardo Houssay
  * Ludwig Boltzmann
+
+Diez lenguajes de programación:
+ * Fortran
+ * Cobol
+ * C
+ * C++
+ * C#
+ * Ada
+ * Python
+ * Java
+ * JavaScript
+ * R
